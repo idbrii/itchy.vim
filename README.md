@@ -9,7 +9,7 @@ recommended:
 
 ```
 cd ~/.vim/bundle
-git clone https://github.com/programble/itchy.vim.git
+git clone https://github.com/pydave/itchy.vim.git
 ```
 
 ## Usage
@@ -19,7 +19,9 @@ To create a new scratch buffer, run `:Scratch`. For more information, see
 
 ## License
 
-Copyright (c) 2011, Curtis McEnroe <programble@gmail.com>
+Copyright (c) 2014, Curtis McEnroe <programble@gmail.com> 
+
+Copyright (c) 2014, David Briscoe <pydave@gmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above

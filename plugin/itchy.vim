@@ -1,8 +1,9 @@
 " Itchy: Scratch buffers for Vim
 " 
-" Author: Curtis McEnroe
-" Version: 0.1.0
-" Date: 30 Jul 2012
+" Author: David Briscoe
+" Contributor: Curtis McEnroe
+" Version: 1.0.0
+" Date: 07 Jul 2014
 " License: ISC
 
 if exists('g:itchy_loaded') || &cp
